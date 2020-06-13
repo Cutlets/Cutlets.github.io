@@ -1,2 +1,0 @@
-# Cutlets.github.io
-Welcome :)
